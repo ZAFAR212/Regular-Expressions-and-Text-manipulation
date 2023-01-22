@@ -14,5 +14,5 @@ Cases:
 7) This case included patterns of 2 people being assigned a single contract. However, some erroneous cases included the same persons name before and after a semi colon
 8) The last case is similar to the above but in this case, the formats before and after the semi colon were not the same and it may not necessarily be the same person before and after the semi colon.
 
-# Some people may share the same names but may be 2 different people. We follow skype's format by assigning them a number e.g. 1 or 2.
+Some people may share the same names but may be 2 different people. We follow skype's format by assigning them a number e.g. 1 or 2.
 

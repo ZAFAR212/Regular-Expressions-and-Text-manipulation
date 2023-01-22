@@ -1,7 +1,7 @@
 # Regular-Expressions-and-Text-manipulation
 # DISCLAIMER: This is a fictional dataset which uses the names of characters from a comedy show and names of random companies as their clients to avoid any confidentiality issues.
-# I developed this solution as part of a wider project to improve a dashboard where the names of same employees would appear multiple times in different formats causing end users a lot of pain in manually cleaning up before they could evaluate performance. 
-# This solution ofcourse is very specific to the problems that existed in the data I dealt with but it can help generate some ideas on how to detect patterns and transform strings in pandas dataframes.
+I developed this solution as part of a wider project to improve a dashboard where the names of same employees would appear multiple times in different formats causing end users a lot of pain in manually cleaning up before they could evaluate performance. 
+This solution is very specific to the problems that existed in the data I dealt with but it can help generate some ideas on how to detect patterns and transform strings in pandas dataframes.
 
 
 This is an algorithm I wrote to allow me to align name formatting where names to a single skype format: LASTNAME, FIRSTNAME. 
